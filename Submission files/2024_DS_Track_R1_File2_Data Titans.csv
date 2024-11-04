@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_wickets_ratio_last10,23.299391469629803,1,Ratio of number of wickets taken by the top 3 bowlers in the roster of a team in the last 10 games
+2,team_count_50runs_last15,18.235004653082957,2,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+3,team_srrate_ratio_last10,10.492797717399979,3,Ratio of the average weighted strike rate of the top 3 batsmen in the last 10 games
+4,team_runs_ratio_last10,10.21935799000342,4,Ratio of runs scored by top 3 batsmen of both teams
+5,bowling_srrate_ratio_last_10,9.112094098998758,5,Bowling strike rate ratio
+6,team_winp_last5,8.417337593483687,6,Ratio of team1's win % to team2's win % in last 5 games
+7,weighted wins,8.3426865036605,7,"Ratio of weighted average of wins for teams, normalizing win amounts by wickets and runs"
+8,ground_avg_runs_last15,6.143745011103928,8,Average runs scored in the ground in last 15 games
+9,ratio_avg_runs_last15,3.3845195815415634,9,Ratio of average runs of both teams in the last 15 matches
+10,team1_winp_team2_last15,2.353065381095408,10,Team1's win percentage against Team2 in last 15 games
